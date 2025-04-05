@@ -1,6 +1,6 @@
-### This notebook is to take a base model(GEMMA 3) and GRPO fine tuning.
+###  GRPO fine tuning.
 
-- **Sample output from Base mnodel**
+- **Base mnodel Output**
 
 ```
 Q: What is the sqrt of 101?
