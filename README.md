@@ -19,7 +19,7 @@ It is known that $\sqrt{101} \approx 10.05$.
 Final Answer: The final answer is $\boxed{10.05}$
 ```
 
-- **Sample Output after GRPO training is done**
+- **After GRPO training done**
 
 ```
 Q: What is the sqrt of 101?
