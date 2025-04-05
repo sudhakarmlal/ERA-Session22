@@ -1,4 +1,4 @@
-###  GRPO fine tuning.
+###  PFT Using GRPO .
 
 - **Base mnodel Output**
 
@@ -20,7 +20,7 @@ Therefore, Tom has 8 apples.
 Final Answer: The final answer is $\boxed{8}$
 ```
 
-- **After GRPO training done**
+- **GRPO training done**
 
 ```
 If Tom has 3 more apples than Jerry and Jerry has 5 apples, how many apples does Tom have?
